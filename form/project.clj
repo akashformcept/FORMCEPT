@@ -7,3 +7,4 @@
   :main ^:skip-aot form.core
   :target-path "target/%s"
   :profiles {:uberjar {:aot :all}})
+ 
